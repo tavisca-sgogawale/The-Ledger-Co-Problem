@@ -80,7 +80,7 @@ OUTPUT:
 IDIDI Dale 1326 9
 IDIDI Dale 3652 4
 UON Shelly 15856 3
-MBI Harry 9044 10
+MBI Harry 9044 10 
 Input needs to be read from a text file, and output should be printed to console. Your program should execute and take the location to the test file as parameter.
 
 You can read build instructions here - https://github.com/geektrust/coding-problem-artefacts
